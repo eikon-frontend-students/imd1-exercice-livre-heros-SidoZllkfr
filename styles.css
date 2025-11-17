@@ -1,8 +1,6 @@
 body {
-  background-color: #1a1a1a;
-  color: white;
-}
-
-a {
-  color: white;
+  background-color: #303d46;
+  color: var(--Texte, #d4dbe3);
+  text-align: center;
+  font-family: "Inria Serif";
 }
