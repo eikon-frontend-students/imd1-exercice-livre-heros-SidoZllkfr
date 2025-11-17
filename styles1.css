@@ -1,40 +1,13 @@
-.option1 {
-  display: flex;
-  width: 510px;
-  height: 224px;
-  padding: 256px 33px;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  gap: 10px;
-  flex-shrink: 0;
-  border-radius: 57px;
-  background: var(--Cartes, #4f6271);
+body {
+  background-color: #303d46;
+  text-align: center;
+  font-family: "Inria Serif";
 }
 
-.option2 {
-  display: flex;
-  width: 510px;
-  height: 224px;
-  padding: 256px 33px;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  gap: 10px;
-  flex-shrink: 0;
-  border-radius: 57px;
-  background: var(--Cartes, #4f6271);
-}
-
-.storytelling {
-  display: flex;
-  width: 1130px;
-  height: 149px;
-  padding: 20px 243px;
-  justify-content: center;
-  align-items: center;
-  gap: 10px;
-  flex-shrink: 0;
-  border-radius: 57px;
-  background: var(--Cartes, #4f6271);
+h1 {
+  color: #000;
+  font-size: 36px;
+  padding: 37px 42px;
+  border-radius: 26px;
+  background: #fff;
 }
