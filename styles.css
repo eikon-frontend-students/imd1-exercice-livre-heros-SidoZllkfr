@@ -24,6 +24,7 @@ a {
   background: var(--Cartes, #4f6271);
   max-width: 1103px;
   margin: 0 auto 77px auto;
+  font-size: 20px;
 }
 
 hr {

@@ -10,7 +10,7 @@ h1 {
   padding: 37px 42px;
   border-radius: 26px;
   background: #fff;
-  margin: 60px 300px;
+  margin: 60px 200px;
 }
 
 .storytelling {
@@ -34,8 +34,8 @@ h1 {
   color: var(--Texte, #fff);
   text-align: center;
   font-family: "Inria Serif";
-  font-size: 64px;
-  max-width: 644px;
+  font-size: 54px;
+  max-width: 634px;
   margin: 120px auto;
 }
 
