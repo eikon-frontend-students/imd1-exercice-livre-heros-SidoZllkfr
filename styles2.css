@@ -1,0 +1,51 @@
+body {
+  background: var(--Mort, #4d0000);
+  text-align: center;
+  font-family: "Inria Serif";
+}
+
+h1 {
+  color: #000;
+  font-size: 36px;
+  padding: 37px 42px;
+  border-radius: 26px;
+  background: #fff;
+}
+
+.storytelling {
+  display: flex;
+  width: 1130px;
+  height: 149px;
+  padding: 20px 243px;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  border-radius: 57px;
+  background: var(--Cartes, #fff);
+  border: 280px 395px 650px 395px;
+  max-width: 1103px;
+  margin: 0 auto 77px auto;
+  color: #000;
+}
+
+.death {
+  color: var(--Texte, #fff);
+  text-align: center;
+  font-family: "Inria Serif";
+  font-size: 64px;
+  max-width: 644px;
+  margin: 120px auto;
+}
+
+a {
+  display: inline-block;
+  color: var(--Texte, #d4dbe3);
+  font-size: 20px;
+  line-height: 150%; /* 30px */
+  letter-spacing: -0.22px;
+
+  gap: 10px;
+  border-radius: 57px;
+  background: var(--Cartes, #000);
+  padding: 33px 256px;
+}

@@ -19,7 +19,7 @@ a {
 }
 
 .card {
-  padding: 37px 100px;
+  padding: 50px 100px;
   border-radius: 55px;
   background: var(--Cartes, #4f6271);
   max-width: 1103px;
