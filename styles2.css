@@ -10,6 +10,7 @@ h1 {
   padding: 37px 42px;
   border-radius: 26px;
   background: #fff;
+  margin: 60px 300px;
 }
 
 .storytelling {
@@ -24,8 +25,9 @@ h1 {
   background: var(--Cartes, #fff);
   border: 280px 395px 650px 395px;
   max-width: 1103px;
-  margin: 0 auto 77px auto;
+  margin: 20px auto 77px auto;
   color: #000;
+  font-size: 20px;
 }
 
 .death {
