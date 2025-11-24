@@ -50,4 +50,5 @@ a {
   border-radius: 57px;
   background: var(--Cartes, #000);
   padding: 33px 256px;
+  text-decoration: none;
 }

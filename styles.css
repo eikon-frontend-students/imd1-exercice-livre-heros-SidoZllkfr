@@ -16,6 +16,7 @@ a {
   border-radius: 57px;
   background: var(--Cartes, #4f6271);
   padding: 33px 256px;
+  text-decoration: none;
 }
 
 .card {

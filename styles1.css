@@ -46,6 +46,7 @@ h1 {
   background: var(--Cartes, #4f6271);
   color: #d4dbe3;
   flex: 1;
+  text-decoration: none;
 }
 
 .win {
@@ -68,4 +69,5 @@ a {
   border-radius: 57px;
   background: var(--Cartes, #000);
   padding: 33px 256px;
+  text-decoration: none;
 }
